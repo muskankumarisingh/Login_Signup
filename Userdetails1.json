@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "username":"muskan kumari singh",
+            "Password":"MUs@123",
+            "Profile":{
+                "description": "i like sing a song",
+                "DOB":"07/09/2000",
+                "Sex":"female",
+                "hobbies":"playing badmintion"
+            }
+        }
+    ]
+}
